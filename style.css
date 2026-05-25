@@ -64,7 +64,7 @@ nav ul li a:hover{
 .hero{
   height:400px;
   width: 100%;
-  background-image:url('./images/banner.png');
+  background-image:url('/images/banner.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -195,7 +195,7 @@ nav ul li a:hover{
 
 .promo{
   height:400px;
-  background-image:url('./images/promo.png');
+  background-image:url('/images/promo.png');
   display:flex;
   justify-content:center;
   align-items:center;
